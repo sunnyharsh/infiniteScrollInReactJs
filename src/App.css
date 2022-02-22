@@ -1,0 +1,17 @@
+.App {
+  margin-top: 200px;
+  text-align: center;
+  height: 300px;
+  width: 500px;
+  background-color: #fff;
+  border: 1px solid red;
+  overflow: scroll;
+}
+p {
+  padding: 25px;
+  border: 1px solid black;
+  width: 81%;
+  margin: 0 auto;
+  margin-top: 10px;
+  border-radius: 9px;
+}
